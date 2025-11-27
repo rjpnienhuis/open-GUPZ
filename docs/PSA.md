@@ -16,6 +16,7 @@ Waaronder open aansluitspecificaties op PARIS
 ## Hergebruik
 ### Seperation of concerns
 Ook de gelaagde API structuur benoemen
+![Three layer API architecture](/assets/3_layer_api_architecture.jpg)
 ## Reductie van complexiteit
 ### Seperation of concerns
 FHIR complexiteit scheiden van PARIS
@@ -38,6 +39,9 @@ Geef hier een eerste indicatie van de informatie-objecten die relevant zijn bij 
 
 
 # Architectuur patronen
+![Sync-agent patroon](/assets/syncagent.jpg)
+![FHIR-facade patroon](/assets/facade.jpg)
+
 
 
 
