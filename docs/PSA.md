@@ -2,8 +2,31 @@
 ## Aanleiding
 ## Doelstelling programma GUPZ
 ![Tijdlijn van het GUPZ programma](/assets/timeline.jpg)
-## Ambities en doelen open GUPZ specificaties & tools
-Versnellen, 
+
+## Ambities open GUPZ specificaties & tools
+Het programma GUPZ en de betrokken PARIS leveranciers streven naar de ontwikkeling van (open specificaties en tools voor) een FHIR gebaseerd dataplatform voor de paramedische zorg. 
+
+### Waarde voor eindgebruikers die opweegt tegen de investeringen:
+- Verlagen van de administratieve lasten voor behandelaars waardoor meer tijd overblijft voor de patient
+- Duidelijkheid zorg(plan) voor patient door verminderen van informatie ruis
+- Patienten op veilige (informatiebeveiliging en veiligheid) manier informeren
+- Professionele uitstraling door juiste en veilige dataoverdracht
+  
+### Versnellen door open innovatie:
+- Samenwerken bij research & development van specificaties, documentatie en code 
+- Compliant zijn aan wet en regelgeving op de meest efficiente manier
+- Verschillen en overeenkomsten met eerdere MedMij & vergelijkbare trajecten duidelijk krijgen en lessons leurned inbrengen
+- Fundament voor toekomstige ontwikkelingen, maar geen alle dingen doekjes
+- Vroegtijdig betrokken zodat geen grote inhaalslag nodig is wanneer wetgeving zaken verplicht stelt PE 18-11
+- Leren van andere sectoren
+- Bij voorkeur één uniforme manier van compliant zijn aan huidige en toekomstige wet- en rtegelgeving
+- beperking benodigde kennisgebieden (programmeertalen/applicaties/...)
+
+### Gelijk speelveld
+- Open aansluitspecificaties voor Dienstverlener zorgaanbieder (DVA), Verwijsplatform, Netwerk Informatie Systemen en andere zorginformatiesystemen
+- Keuzevrijheid voor paramedische praktijken bij de keuze van een DVA, verwijsplatform en andere zorginformatiesystemen
+  
+  
 # Uitgangspunten en principes
 
 ## Gelijk speelveld
